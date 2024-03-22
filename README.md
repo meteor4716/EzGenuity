@@ -1,1 +1,1 @@
-# EdGenerate
+# EzGenuity
