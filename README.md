@@ -10,7 +10,7 @@
     ⋅
     <a href="https://github.com/meteor4716/EzGenuity/issues/new?assignees=&labels=bug&projects=&template=bug-report.md&title=Bug+Report">Report Bug</a>
     ⋅
-    <a href="https://github.com/meteor4716/EzGenuity">Request Feature</a>
+    <a href="https://github.com/meteor4716/EzGenuity/issues/new?assignees=&labels=enhancement&projects=&template=feature-request.md&title=Feature+Request">Request Feature</a>
   </p>
 </p>
 <div align="center">
