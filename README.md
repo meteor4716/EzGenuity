@@ -3,7 +3,7 @@
   <h1 align="center">EzGenuity</h1>
 
   <p align="center">
-    [Description]
+    EdGenuity made easy!
     <br/>
     <br/>
     <a href="https://github.com/meteor4716/EzGenuity">Download</a>
