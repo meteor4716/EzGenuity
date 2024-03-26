@@ -1,18 +1,27 @@
-EzInstall
-=========
+<br/>
+<p align="center">
+  <h1 align="center">EzInstall</h1>
+</p>
+<br/>
+<p align="center">
+  <h3 align="center">Violentmonkey Browser Extension</h3>
+</p>
+<p align="center">
+  To install the EzGenuity script, you will first need to install the Violentmonkey browser extension. This can be done by clicking the button for your respective browser's store below. The Violentmonkey homepage can be found <a href="https://violentmonkey.github.io/">here</a> and the source code can be found <a href="https://github.com/violentmonkey/violentmonkey">here</a>.
+</p>
+<div align="center">
 
+  <a href="https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag">![Violentmonkey Chrome Web Store](https://img.shields.io/badge/chrome%20web%20store-brightgreen?style=for-the-badge&logo=google-chrome)</a> <a href="https://addons.mozilla.org/firefox/addon/violentmonkey">![Violentmonkey Firefox Add-ons Store](https://img.shields.io/badge/firefox%20add--ons%20store-brightgreen?style=for-the-badge&logo=firefox)</a> <a href="https://microsoftedge.microsoft.com/addons/detail/eeagobfjdenkkddmbclomhiblgggliao">![Violentmonkey Microsoft Edge Add-ons Store](https://img.shields.io/badge/microsoft%20edge%20add--ons%20store-brightgreen?style=for-the-badge&logo=microsoft-edge&logoColor=0078D7)</a>
 
+</div>
+<br/>
+<p align="center">
+  <h3 align="center">EzGenuity Script</h3>
+</p>
+<p align="center">
+  After you've installed the Violentmonkey extension, all you need to do is click the button below to install the EzGenuity script.
+<div align="center">
 
-### Violentmonkey Browser Extension
+  <a href="">![EzGenuity](https://img.shields.io/badge/install%20ezgenuity-brightgreen?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMTUwIiBoZWlnaHQ9IjE1MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjAiPgogPGRlZnM+CiAgPGxpbmVhckdyYWRpZW50IHkyPSIxIiB4Mj0iMSIgeTE9IjEiIHgxPSIwIiBpZD0ic3ZnXzEiPgogICA8c3RvcCBvZmZzZXQ9IjAiIHN0b3Atb3BhY2l0eT0iMC45OTYiIHN0b3AtY29sb3I9InJlZCIvPgogICA8c3RvcCBvZmZzZXQ9IjEiIHN0b3Atb3BhY2l0eT0iMC45OTYiIHN0b3AtY29sb3I9IiNmYWEiLz4KICA8L2xpbmVhckdyYWRpZW50PgogIDxsaW5lYXJHcmFkaWVudCB5Mj0iMSIgeDI9IjEiIHkxPSIxIiB4MT0iMCIgaWQ9InN2Z18yIj4KICAgPHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjZmY1NjU2Ii8+CiAgIDxzdG9wIG9mZnNldD0iMSIgc3RvcC1vcGFjaXR5PSIwLjk5NiIgc3RvcC1jb2xvcj0iI2ZhYSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiA8L2RlZnM+CiA8Zz4KICA8dGl0bGU+TGF5ZXIgMTwvdGl0bGU+CiAgPHJlY3QgaWQ9InN2Z183IiBoZWlnaHQ9IjEwMCIgd2lkdGg9IjEwMCIgeT0iMjUiIHg9IjI1IiBzdHJva2U9IiNmZmZmZmYiIGZpbGw9IiNmZmZmZmYiLz4KICA8cGF0aCBzdHJva2U9InVybCgjc3ZnXzIpIiBmaWxsPSJ1cmwoI3N2Z18xKSIgZD0ibTEyLjU0MDQsMS4wMjkyNWMtMy44LDEuMSAtOS45LDcuNCAtMTEuNCwxMS44Yy0xLjQsNC40IC0xLjYsMTE4LjkgLTAuMSwxMjQuMWMwLjUsMiAyLjQsNSA0LjIsNi43YzYuNyw2LjUgNC44LDYuMyA2OS41LDYuM2MzNS41LDAgNjAuMiwtMC40IDYyLjMsLTFjMiwtMC41IDUsLTIuNCA2LjcsLTQuMmM2LjUsLTYuNyA2LjMsLTQuOCA2LjMsLTY5LjVjMCwtMzUuNSAtMC40LC02MC4yIC0xLC02Mi4zYy0wLjUsLTIgLTIuNCwtNSAtNC4yLC02LjdjLTYuNywtNi41IC00LjcsLTYuMyAtNzAsLTYuMmMtMzIuNiwwIC02MC43LDAuNSAtNjIuMywxem05OS40LDM3YzIuNiwyLjYgMy4xLDMuOCAzLjEsNy45cy0wLjUsNS4zIC0zLjEsNy45bC0zLjEsMy4xbC02Ny42LDBsLTMuMSwtMy4xYy0yLjYsLTIuNiAtMy4xLC0zLjggLTMuMSwtNy45czAuNSwtNS4zIDMuMSwtNy45bDMuMSwtMy4xbDY3LjYsMGwzLjEsMy4xem0tMjkuMywyOS4zYzIuOCwyLjggMy40LDQuMiAzLjQsNy42cy0wLjYsNC44IC0zLjQsNy42bC0zLjQsMy40bC0zOCwwbC0zLjEsLTMuMWMtMi42LC0yLjYgLTMuMSwtMy44IC0zLjEsLTcuOXMwLjUsLTUuMyAzLjEsLTcuOWwzLjEsLTMuMWwzOCwwbDMuNCwzLjR6bTI5LjMsMjguN2MyLjYsMi42IDMuMSwzLjggMy4xLDcuOXMtMC41LDUuMyAtMy4xLDcuOWwtMy4xLDMuMWwtNjcuNiwwbC0zLjEsLTMuMWMtMi42LC0yLjYgLTMuMSwtMy44IC0zLjEsLTcuOXMwLjUsLTUuMyAzLjEsLTcuOWwzLjEsLTMuMWw2Ny42LDBsMy4xLDMuMXoiIGlkPSJzdmdfMyIvPgogPC9nPgo8L3N2Zz4K)</a>
 
-To install the EzGenuity script, you will first need to install the Violentmonkey browser extension. This can be done by clicking the button for your respective browser's store below. The Violentmonkey homepage can be found [here](https://violentmonkey.github.io/) and the source code can be found [here](https://github.com/violentmonkey/violentmonkey).
-
-[!\[Violentmonkey Chrome Web Store\](https://img.shields.io/badge/chrome%20web%20store-brightgreen?style=for-the-badge&logo=google-chrome)](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag) [!\[Violentmonkey Firefox Add-ons Store\](https://img.shields.io/badge/firefox%20add--ons%20store-brightgreen?style=for-the-badge&logo=firefox)](https://addons.mozilla.org/firefox/addon/violentmonkey) [!\[Violentmonkey Microsoft Edge Add-ons Store\](https://img.shields.io/badge/microsoft%20edge%20add--ons%20store-brightgreen?style=for-the-badge&logo=microsoft-edge&logoColor=0078D7)](https://microsoftedge.microsoft.com/addons/detail/eeagobfjdenkkddmbclomhiblgggliao)
-
-
-
-### EzGenuity Script
-
-After you've installed the Violentmonkey extension, all you need to do is click the button below to install the EzGenuity script.
-
-![EzGenuity](https://img.shields.io/badge/install%20ezgenuity-brightgreen?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB3aWR0aD0iMTUwIiBoZWlnaHQ9IjE1MCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB2ZXJzaW9uPSIxLjAiPgogPGRlZnM+CiAgPGxpbmVhckdyYWRpZW50IHkyPSIxIiB4Mj0iMSIgeTE9IjEiIHgxPSIwIiBpZD0ic3ZnXzEiPgogICA8c3RvcCBvZmZzZXQ9IjAiIHN0b3Atb3BhY2l0eT0iMC45OTYiIHN0b3AtY29sb3I9InJlZCIvPgogICA8c3RvcCBvZmZzZXQ9IjEiIHN0b3Atb3BhY2l0eT0iMC45OTYiIHN0b3AtY29sb3I9IiNmYWEiLz4KICA8L2xpbmVhckdyYWRpZW50PgogIDxsaW5lYXJHcmFkaWVudCB5Mj0iMSIgeDI9IjEiIHkxPSIxIiB4MT0iMCIgaWQ9InN2Z18yIj4KICAgPHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjZmY1NjU2Ii8+CiAgIDxzdG9wIG9mZnNldD0iMSIgc3RvcC1vcGFjaXR5PSIwLjk5NiIgc3RvcC1jb2xvcj0iI2ZhYSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiA8L2RlZnM+CiA8Zz4KICA8dGl0bGU+TGF5ZXIgMTwvdGl0bGU+CiAgPHJlY3QgaWQ9InN2Z183IiBoZWlnaHQ9IjEwMCIgd2lkdGg9IjEwMCIgeT0iMjUiIHg9IjI1IiBzdHJva2U9IiNmZmZmZmYiIGZpbGw9IiNmZmZmZmYiLz4KICA8cGF0aCBzdHJva2U9InVybCgjc3ZnXzIpIiBmaWxsPSJ1cmwoI3N2Z18xKSIgZD0ibTEyLjU0MDQsMS4wMjkyNWMtMy44LDEuMSAtOS45LDcuNCAtMTEuNCwxMS44Yy0xLjQsNC40IC0xLjYsMTE4LjkgLTAuMSwxMjQuMWMwLjUsMiAyLjQsNSA0LjIsNi43YzYuNyw2LjUgNC44LDYuMyA2OS41LDYuM2MzNS41LDAgNjAuMiwtMC40IDYyLjMsLTFjMiwtMC41IDUsLTIuNCA2LjcsLTQuMmM2LjUsLTYuNyA2LjMsLTQuOCA2LjMsLTY5LjVjMCwtMzUuNSAtMC40LC02MC4yIC0xLC02Mi4zYy0wLjUsLTIgLTIuNCwtNSAtNC4yLC02LjdjLTYuNywtNi41IC00LjcsLTYuMyAtNzAsLTYuMmMtMzIuNiwwIC02MC43LDAuNSAtNjIuMywxem05OS40LDM3YzIuNiwyLjYgMy4xLDMuOCAzLjEsNy45cy0wLjUsNS4zIC0zLjEsNy45bC0zLjEsMy4xbC02Ny42LDBsLTMuMSwtMy4xYy0yLjYsLTIuNiAtMy4xLC0zLjggLTMuMSwtNy45czAuNSwtNS4zIDMuMSwtNy45bDMuMSwtMy4xbDY3LjYsMGwzLjEsMy4xem0tMjkuMywyOS4zYzIuOCwyLjggMy40LDQuMiAzLjQsNy42cy0wLjYsNC44IC0zLjQsNy42bC0zLjQsMy40bC0zOCwwbC0zLjEsLTMuMWMtMi42LC0yLjYgLTMuMSwtMy44IC0zLjEsLTcuOXMwLjUsLTUuMyAzLjEsLTcuOWwzLjEsLTMuMWwzOCwwbDMuNCwzLjR6bTI5LjMsMjguN2MyLjYsMi42IDMuMSwzLjggMy4xLDcuOXMtMC41LDUuMyAtMy4xLDcuOWwtMy4xLDMuMWwtNjcuNiwwbC0zLjEsLTMuMWMtMi42LC0yLjYgLTMuMSwtMy44IC0zLjEsLTcuOXMwLjUsLTUuMyAzLjEsLTcuOWwzLjEsLTMuMWw2Ny42LDBsMy4xLDMuMXoiIGlkPSJzdmdfMyIvPgogPC9nPgo8L3N2Zz4K)
+</div>
