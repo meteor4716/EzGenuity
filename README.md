@@ -15,6 +15,6 @@
 </p>
 <div align="center">
 
-  <a href="">![Downloads](https://img.shields.io/github/downloads/meteor4716/EzGenuity/total)</a>
+  <a href="https://github.com/meteor4716/EzGenuity/blob/main/EzInstall.md">![Downloads](https://img.shields.io/github/downloads/meteor4716/EzGenuity/total)</a>
 
 </div>
