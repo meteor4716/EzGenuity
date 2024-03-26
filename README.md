@@ -8,7 +8,7 @@
     <br/>
     <a href="https://github.com/meteor4716/EzGenuity">Download</a>
     ⋅
-    <a href="https://github.com/meteor4716/EzGenuity">Report Bug</a>
+    <a href="https://github.com/meteor4716/EzGenuity/issues/new?assignees=&labels=bug&projects=&template=bug-report.md&title=Bug+Report">Report Bug</a>
     ⋅
     <a href="https://github.com/meteor4716/EzGenuity">Request Feature</a>
   </p>
