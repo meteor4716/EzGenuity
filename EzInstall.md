@@ -11,7 +11,7 @@
 </p>
 <div align="center">
 
-  <a href="https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag" target="_blank">![Violentmonkey Chrome Web Store](https://img.shields.io/badge/chrome%20web%20store-brightgreen?style=for-the-badge&logo=google-chrome&logoColor=lightorange)</a> <a href="https://addons.mozilla.org/firefox/addon/violentmonkey" target="_blank">![Violentmonkey Firefox Add-ons Store](https://img.shields.io/badge/firefox%20add--ons%20store-brightgreen?style=for-the-badge&logo=firefox)</a> <a href="https://microsoftedge.microsoft.com/addons/detail/eeagobfjdenkkddmbclomhiblgggliao" target="_blank">![Violentmonkey Microsoft Edge Add-ons Store](https://img.shields.io/badge/microsoft%20edge%20add--ons%20store-brightgreen?style=for-the-badge&logo=microsoft-edge&logoColor=blue)</a>
+  <a href="https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag" target="_blank">![Violentmonkey Chrome Web Store](https://img.shields.io/badge/chrome%20web%20store-brightgreen?style=for-the-badge&logo=google-chrome&logoColor=orange)</a> <a href="https://addons.mozilla.org/firefox/addon/violentmonkey" target="_blank">![Violentmonkey Firefox Add-ons Store](https://img.shields.io/badge/firefox%20add--ons%20store-brightgreen?style=for-the-badge&logo=firefox)</a> <a href="https://microsoftedge.microsoft.com/addons/detail/eeagobfjdenkkddmbclomhiblgggliao" target="_blank">![Violentmonkey Microsoft Edge Add-ons Store](https://img.shields.io/badge/microsoft%20edge%20add--ons%20store-brightgreen?style=for-the-badge&logo=microsoft-edge&logoColor=lightblue)</a>
 
 </div>
 <br/>
