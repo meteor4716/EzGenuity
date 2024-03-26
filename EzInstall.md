@@ -1,7 +1,9 @@
 <br/>
 <p align="center">
   <h1 align="center">EzInstall</h1>
+  <p align="center">
   To install the EzGenuity script, you will first need to install the Violentmonkey browser extension as it is the interface that the script is programmed for. Then, you can freely install and use EzGenuity.
+  </p>
 </p>
 <br/>
 <p align="center">
