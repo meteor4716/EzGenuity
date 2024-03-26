@@ -6,7 +6,7 @@
     EdGenuity made easy!
     <br/>
     <br/>
-    <a href="https://github.com/meteor4716/EzGenuity">Download</a>
+    <a href="https://github.com/meteor4716/EzGenuity/blob/main/EzInstall.md">Download</a>
     ⋅
     <a href="https://github.com/meteor4716/EzGenuity/issues/new?assignees=&labels=bug&projects=&template=bug-report.md&title=Bug+Report">Report Bug</a>
     ⋅
