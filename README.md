@@ -7,7 +7,7 @@
 </p>
 <div align="center">
 
-  <a href="https://github.com/meteor4716/EzGenuity/issues/new?assignees=&labels=bug&projects=&template=bug-report.md&title=Bug+Report">![Bug Report](https://raw.githubusercontent.com/meteor4716/EzGenuity/main/assets/bug-report-button-v1.svg)</a> <a href="https://github.com/meteor4716/EzGenuity/blob/main/EzInstall.md">![Download](https://raw.githubusercontent.com/meteor4716/EzGenuity/main/assets/download-button-v1.svg)</a> <a href="https://github.com/meteor4716/EzGenuity/issues/new?assignees=&labels=enhancement&projects=&template=feature-request.md&title=Feature+Request">![Feature Request](https://raw.githubusercontent.com/meteor4716/EzGenuity/main/assets/feature-request-button-v1.svg)</a>
+  <a href="https://github.com/meteor4716/EzGenuity/issues/new?assignees=&labels=bug&projects=&template=bug-report.md&title=Bug+Report">![Bug Report](https://raw.githubusercontent.com/meteor4716/EzGenuity/main/assets/bug-report-button-v1.svg)</a> <a href="https://github.com/meteor4716/EzGenuity?tab=readme-ov-file#installation">![Download](https://raw.githubusercontent.com/meteor4716/EzGenuity/main/assets/download-button-v1.svg)</a> <a href="https://github.com/meteor4716/EzGenuity/issues/new?assignees=&labels=enhancement&projects=&template=feature-request.md&title=Feature+Request">![Feature Request](https://raw.githubusercontent.com/meteor4716/EzGenuity/main/assets/feature-request-button-v1.svg)</a>
 
 </div>
 <div align="center">
