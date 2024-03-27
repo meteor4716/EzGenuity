@@ -1,9 +1,0 @@
-<svg width="512" height="512" xmlns="http://www.w3.org/2000/svg">
-
- <g>
-  <rect id="svg_1" height="100" width="100" y="350" x="400" stroke="#000" fill="#fff"/>
-  <g id="layer1">
-   <path stroke-width="1px" fill-rule="evenodd" d="m192,32l0,160l-112,0l176,176l176,-176l-112,0l0,-160l-128,0zm-192,288l0,160l512,0l0,-160l-128,0l-128,128l-128,-128l-128,0zm416,32l64,0l0,64l-64,0l0,-64z" id="path4136"/>
-  </g>
- </g>
-</svg>
