@@ -7,7 +7,7 @@
 </p>
 <div align="center">
 
-  <a href="https://github.com/meteor4716/EzGenuity/blob/main/resources/EzInstall.md">![Download Count](https://img.shields.io/github/downloads/meteor4716/EzGenuity/total?style=for-the-badge)</a>
+  <a href="https://github.com/meteor4716/EzGenuity/blob/main/resources/EzInstall.md">![Download Count](https://img.shields.io/github/downloads/meteor4716/EzGenuity/total?style=flat-square)</a>
 
 </div>
 <br/>
