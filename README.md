@@ -15,3 +15,7 @@
   <a href="https://github.com/meteor4716/EzGenuity/blob/main/EzInstall.md">![Download Count)](https://img.shields.io/github/downloads/meteor4716/EzGenuity/total?style=for-the-badge)</a>
 
 </div>
+<br/>
+<p align-"center">
+  <h2 align="center">Table of Contents</h2>
+</p>
