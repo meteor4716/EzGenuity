@@ -22,7 +22,7 @@
   <h3 align="center">EzGenuity Script</h3>
 </p>
 <p align="center">
-  After you've installed the Violentmonkey extension, all you need to do is click the button below to install the EzGenuity script.
+  After you've installed the Violentmonkey extension, all you need to do is click the button below to install EzGenuity!
 <div align="center">
 
   <a href="">![EzGenuity](https://raw.githubusercontent.com/meteor4716/EzGenuity/main/assets/install-ezgenuity-v1.svg)</a>
