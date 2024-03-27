@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100.75" height="28" aria-label="INSTALL">
+  <path fill="#4c1" d="M0 0h100.75v28H0z" shape-rendering="crispEdges"/>
+  <g fill="#fff" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="100" text-anchor="middle" text-rendering="geometricPrecision">
+    <image xlink:href="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNTEyIiBoZWlnaHQ9IjQ0OCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KICA8cGF0aCBzdHJva2U9IiNmZmYiIGZpbGw9IiNmZmYiIGQ9Ik00MDAgMzAwaDEwMHYxMDBINDAweiIvPgogIDxwYXRoIGZpbGwtcnVsZT0iZXZlbm9kZCIgZD0iTTE5MiAwdjE2MEg4MGwxNzYgMTc2IDE3Ni0xNzZIMzIwVjBIMTkyek0wIDI4OHYxNjBoNTEyVjI4OEgzODRMMjU2IDQxNiAxMjggMjg4SDB6bTQxNiAzMmg2NHY2NGgtNjR2LTY0eiIvPgo8L3N2Zz4=" width="14" height="14" x="9" y="7"/>
+    <text x="603.75" y="175" font-weight="bold" textLength="567.5" transform="scale(.1)">INSTALL</text>
+  </g>
+</svg>
