@@ -2,10 +2,10 @@
 <html>
 <body>
 <br/>
-<div style="text-align: center">
-<h1 style="text-align: center"><img src="https://raw.githubusercontent.com/meteor4716/EzGenuity/main/assets/EzLogo-v1.svg" alt="EzLogo" style="float: left;">EzGenuity<img src="https://raw.githubusercontent.com/meteor4716/EzGenuity/main/assets/EzLogo-v1.svg" alt="EzLogo" style="float: right;"></h1>
+<div align="center">
+<h1><img src="https://raw.githubusercontent.com/meteor4716/EzGenuity/main/assets/EzLogo-v1.svg" alt="EzLogo" width="30" height="30">EzGenuity<img src="https://raw.githubusercontent.com/meteor4716/EzGenuity/main/assets/EzLogo-v1.svg" alt="EzLogo" width="30" height="30"></h1>
 </div>
-<p style="text-align: center"><a href="https://auth.edgenuity.com/login/">EdGenuity</a> made easy!</p>
+<p align="center"><a href="https://auth.edgenuity.com/login/">EdGenuity</a> made easy!</p>
 <div align="center">
   <a href="https://github.com/meteor4716/EzGenuity/blob/main/resources/EzInstall.md"><img src="https://img.shields.io/github/downloads/meteor4716/EzGenuity/total?style=flat-square" alt="Download Count"></a>
 </div>
