@@ -16,6 +16,18 @@
 
 </div>
 <br/>
-<p align-"center">
+<p align="center">
   <h2 align="center">Table of Contents</h2>
+</p>
+<br/>
+<p align="center">
+  <h2 align="center">Info</h2>
+</p>
+<br/>
+<p align="center">
+  <h2 align="center">Installation</h2>
+</p>
+<br/>
+<p align="center">
+  <h2 align="center">Donate</h2>
 </p>
