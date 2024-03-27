@@ -10,7 +10,7 @@
   <h3 align="center">Violentmonkey Browser Extension</h3>
 </p>
 <p align="center">
-  The Violentmonkey extension can be installed by clicking the button for your respective browser's store below. The Violentmonkey homepage can be found <a href="https://violentmonkey.github.io/">here</a> and the source code can be found <a href="https://github.com/violentmonkey/violentmonkey">here</a>.
+  The Violentmonkey extension can be installed by clicking the button for your respective browser's store below. The Violentmonkey homepage can be found <a href="https://violentmonkey.github.io/">here</a>, and the source code can be found <a href="https://github.com/violentmonkey/violentmonkey">here</a>.
 </p>
 <div align="center">
 
