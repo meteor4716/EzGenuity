@@ -2,7 +2,7 @@
 <p align="center">
   <h1 align="center">EzGenuity</h1>
   <p align="center">
-  EdGenuity made easy!
+  <a href="https://auth.edgenuity.com/login/">EdGenuity</a> made easy!
   </p>
 </p>
 <div align="center">
