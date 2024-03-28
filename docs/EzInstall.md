@@ -9,6 +9,7 @@
 <div align="center">
 <a href="https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag"><img src="https://raw.githubusercontent.com/meteor4716/EzGenuity/main/assets/vm-cws-v1.svg" alt="Chrome Web Store - Violentmonkey"></a> <a href="https://addons.mozilla.org/firefox/addon/violentmonkey"><img src="https://raw.githubusercontent.com/meteor4716/EzGenuity/main/assets/vm-fas-v1.svg" alt="Firefox Add-ons Store - Violentmonkey"></a> <a href="https://microsoftedge.microsoft.com/addons/detail/eeagobfjdenkkddmbclomhiblgggliao"><img src="https://raw.githubusercontent.com/meteor4716/EzGenuity/main/assets/vm-meas-v1.svg" alt="Microsoft Edge Add-ons Store - Violentmonkey"></a>
 </div>
+<br/>
 <p align="center">After you've installed the Violentmonkey extension, all you need to do is click the button below to install EzGenuity!</p>
 <div align="center">
 <a href=""><img src="https://raw.githubusercontent.com/meteor4716/EzGenuity/main/assets/install-ezgenuity-v1.svg" alt="Install EzGenuity"></a>
