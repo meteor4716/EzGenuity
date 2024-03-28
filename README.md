@@ -3,7 +3,7 @@
 <body>
 <br/>
 <div align="center">
-<h1><img src="https://raw.githubusercontent.com/meteor4716/EzGenuity/main/assets/EzLogo-v1.svg" alt="EzLogo" width="30" height="30"> EzGenuity <img src="https://raw.githubusercontent.com/meteor4716/EzGenuity/main/assets/EzLogo-v1.svg" alt="EzLogo" width="30" height="30"></h1>
+<h1><a href="https://github.com/meteor4716/EzGenuity"><img src="https://raw.githubusercontent.com/meteor4716/EzGenuity/main/assets/EzLogo-v1.svg" alt="EzLogo" width="30" height="30"></a> EzGenuity <a href="https://github.com/meteor4716/EzGenuity"><img src="https://raw.githubusercontent.com/meteor4716/EzGenuity/main/assets/EzLogo-v1.svg" alt="EzLogo" width="30" height="30"></a></h1>
 </div>
 <p align="center"><a href="https://auth.edgenuity.com/login/">EdGenuity</a> made easy!</p>
 <div align="center">
